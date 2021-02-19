@@ -1,4 +1,4 @@
-# Szumi-las-dudni-bas---website
+# Szumi-las
 
 Hi, 
 
