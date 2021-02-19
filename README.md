@@ -2,7 +2,7 @@
 
 Hi, 
 
-This is my very first website which was for some period of time active. 
+This is my very first website (fotoblog) which was active for some period of time.
 Currently, I have resigned from it becasue technically is not very good :)
 
 I used here:
@@ -11,3 +11,5 @@ I used here:
 - Bootstrap - RWD
 - HTML
 - CSS
+
+Due to of limit on GitHub, I had to remove few subpages and reduce quality of images.
