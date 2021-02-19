@@ -1,0 +1,150 @@
+body
+{
+	padding: 0;
+	margin: 0;
+	font-family: 'Open Sans Condensed', sans-serif !important;
+}
+
+.container-flex
+{
+	background-color: #1f1f1f;
+}
+
+.logo
+{
+	position: relative;
+	color: white;
+	text-align: center;
+}
+
+.logo img
+{
+	width: 100% ;
+	margin-bottom: 20px;
+	
+	-webkit-box-shadow: 0px 0px 26px 2px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 0px 26px 2px rgba(0,0,0,0.75);
+	box-shadow: 0px 0px 26px 2px rgba(0,0,0,0.75);
+}
+
+h1
+{
+	position: absolute;
+	top: 40%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	letter-spacing: 1.5vw;
+	font-size: 2.3vw !important;
+}
+
+h2
+{
+	position: absolute;
+	top: 80%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	letter-spacing: 1.5vw;
+	font-size: 2.4vw !important;
+}
+
+h3
+{
+	letter-spacing: 10px;
+	font-size: 4.5vmin !important;
+}
+
+.row
+{
+	padding: 0 !important;
+	margin: 0 !important; 
+}
+
+.row img
+{
+	width: 100%;
+	height: auto;
+	min-height: 100px;
+}
+
+.row div
+{
+	padding: 0px;
+	position: relative;
+	text-align: center;
+	opacity: 0.9;
+	transition: all 0.2s ease-in-out;
+	border: 1px solid #1f1f1f;
+}
+
+.row div:hover
+{
+	opacity: 1;
+	transform: scale(0.97);
+}
+
+.row p
+{
+	color: #8e8e8e;
+	letter-spacing: 3px;
+	position: absolute;
+	bottom: 0%;
+	left: 50%;
+	transform: translate(-50%, 0%);
+	font-size: 2vw;
+	
+	background-color: rgba(13, 13, 13, 0.6);
+	width: 100%;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+.footer
+{
+	background-color: #0d0d0d;
+	position: absolute;
+	color: #8e8e8e;
+	position: relative;
+	margin-top: 20px;
+	text-align: center;
+	
+	-webkit-box-shadow: 0px 0px 26px 2px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 0px 26px 2px rgba(0,0,0,0.75);
+	box-shadow: 0px 0px 26px 2px rgba(0,0,0,0.75);
+}
+
+.opis_head
+{
+	padding-top: 2%;
+	padding-bottom: 2%;
+}
+
+.opis
+{
+	letter-spacing: 1px;
+	font-size: 4vmin;
+	padding-bottom: 2%;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.media
+{
+	display: flex;
+	justify-content: space-evenly;
+	margin: 20px 20% 20px;
+}
+
+
+.media p
+{
+	letter-spacing: 0.5vmin;
+	font-size: 2.8vmin;
+}
+
+.prawa-autorskie
+{
+	background-color: #0d0d0d;
+	padding: 25px;
+	font-size: 1.5vmin;
+	clear: both;
+}
